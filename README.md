@@ -1,4 +1,5 @@
 # Data structure and types
+
 ## TASK № 1
 ### Write a title validation function - validateTitle, which takes an argument and validates it by the rules: 
 * 1. Title length must be more than 2 characters but less than 20.
